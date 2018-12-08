@@ -6,7 +6,7 @@ This resume is edited version of a great design avaiable as [**Awesome CV**](htt
 ## Preview
 You can see [PDF](resume.pdf)
 
-![image of myResume](dp-demo.jpeg)
+![image of myResume](dp-demo.jpg)
 
 
 ## Disclaimer
