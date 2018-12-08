@@ -4,7 +4,7 @@ This resume is edited version of a great design avaiable as [**Awesome CV**](htt
 
 
 ## Preview
-You can see [PDF](grvaggarwal_resume_latex/resume.pdf)
+You can see [PDF][a relative link](grvaggarwal_resume_latex/resume.pdf)
 
 
 ## Disclaimer
